@@ -8,3 +8,5 @@ Algorithm by @praxton74
 Statistical Analysis by @PurnitaSharma
 
 EDA by #SahilGupta
+
+Student Performance Model(EDA + Visualization + Prediction Models) by @musicallysouled
